@@ -14,3 +14,5 @@ This work is published under the terms of **[42 Unlicense](https://github.com/gc
 * Rush01 has a perfectly working logic and should theoretically work but lack of time prevented us to debug it fully so it's provided in a non-working state.
 
 * Rush02 suffers from a few memory leaks issues in some functions and has another issue with handling multiple spaces before the ":" in dict lines, but it is working like a charm and is provided with extra dictionnaries and a dirty but functionnal read-from-stdin method.
+
+PDFs of subjects and other documents that weren't written by me are the property of the pedagogical department of 42 Network (I guess) and/or any of their respective owners but have been provided for convenience. Feel free to mail me of you want them down.
