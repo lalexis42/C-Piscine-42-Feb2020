@@ -1,9 +1,20 @@
-This is free and unencumbered software released into the public domain.
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    LICENSE                                            :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rgilles <rgilles@student.42.fr>            +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/03/02 15:33:00 by rgilles           #+#    #+#              #
+#    Updated: 2020/03/02 15:33:00 by rgilles          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+This is a free work delivered for educational purposes during the Piscine
+at 42 <42.fr>.
+
+Feel free to use it, change it, give advices, send me a pull request or
+just email me if you want to share some thoughts.
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
@@ -20,5 +31,3 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
