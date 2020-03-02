@@ -10,6 +10,12 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*
+**	You can do otherwise but I'm just very proud of my integer implementation of
+**	the Babylonian square root detection algorithm. I'm the only one in the whole
+**	piscine to have dealt with it this way. Guess it helps to have studied maths.
+*/
+
 int	calculate(int nb, long double approx, long double prev_approx)
 {
 	if (approx * approx <= 2147483647 && (int)approx * (int)approx == nb)
