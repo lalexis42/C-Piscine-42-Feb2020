@@ -1,0 +1,5 @@
+Credentials cache: API:F4B8AA9B-32C0-4BFB-8CF4-D01E8CBB931B
+        Principal: rgilles@42.FR
+
+  Issued                Expires               Principal
+Feb  3 14:56:12 2020  Feb 10 14:55:51 2020  krbtgt/42.FR@42.FR
