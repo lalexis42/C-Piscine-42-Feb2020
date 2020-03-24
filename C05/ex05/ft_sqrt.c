@@ -11,9 +11,12 @@
 /* ************************************************************************** */
 
 /*
-**	You can do otherwise but I'm just very proud of my integer implementation of
-**	the Babylonian square root detection algorithm. I'm the only one in the whole
-**	piscine to have dealt with it this way. Guess it helps to have studied maths.
+**	You can do otherwise but I'm just very proud of my recursive integer 
+**	implementation of the Babylonian square root detection algorithm. I'm
+**	the only one in the whole piscine to have dealt with it this way.
+**  You can implement it iteratively, with the same level of theoretical complexity
+**  (but with faster execution in practice), but the point of C05 was to practice
+**  recursion soooo...
 */
 
 int	calculate(int nb, long double approx, long double prev_approx)
